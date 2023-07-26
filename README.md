@@ -11,3 +11,13 @@ The Ignite Shop is a T-shirt e-commerce platform designed to provide customers w
   <img src="https://github.com/arthur-carminatti/02-nodejs/assets/126788701/63687385-b211-487d-b806-1c88162a28cb" />
 </div>
 
+<h2>How to Run the Project</h2>
+
+To run Ignite Shop on your local machine, follow the instructions below:
+
+- Make sure you have Node.js installed in its latest version.
+- Clone this repository to your machine
+- Navigate to the project folder
+- Install the necessary dependencies: `npm install`
+- Start the application: `npm run dev`
+- Create an .env file and populate this file as shown in .env.example
